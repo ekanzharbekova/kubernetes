@@ -1,2 +1,2 @@
 #!/bin/bash 
-aws eks update-kubeconfig --name Class1 --region us-east-2
+aws eks update-kubeconfig --name class1 --region us-east-2
